@@ -1,1 +1,2 @@
 this is another file in folder
+ok its succes fully adeed to your git
